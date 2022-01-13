@@ -1,0 +1,70 @@
+- layout: top-middle
+  name: Editorial Classifier
+  github: ameyakarnad/bloomberg_editorial_classifier
+  quote: >
+    A Bloomberg Sponsored Capstone Project to classify news articles
+  description: | # this will include new lines to allow paragraphs
+    - Worked with unstructured news sources to build classifiers to identify editorial content for Bloomberg Terminal.
+    - Developed traditional classification algorithms with text based features like n-grams, Parts of speech, Named entities etc.
+    - Trained Natural Language Processing based Bidirectional LSTM, BERT, and XLNET Models for classification using Python.
+    - Languages: Python(Pytorch, TensorFlow, spacy), R(ggplot)
+
+- layout: top-middle
+  name: Educational Recommendation System
+  quote: >
+    Recommendation system to recommend digital resources to students
+  description: | # this will include new lines to allow paragraphs
+    - Developed a multi-platform database pipeline for physical and digital user behavior, and research content using AWS.
+    - Built and evaluated a hybrid recommendation system on multiple digital learning platforms
+    - Technologies: Python (nltk, predictionIO), SQL, MongoDB
+
+- layout: top-middle
+  name: Does Climate Change and Natural Resource Storage Cause Conflict?
+  github: ameyakarnad/SenegalConflict
+  quote: >
+    A "Data Science and Public Policy" Project to Analyze Conflicts in Senegal
+  description: | # this will include new lines to allow paragraphs
+    - Find correlation between factors such as Rainfall, Temperature, food prices and Bio-mass and Conflicts in Senegal
+    - Used Regression, SVM, Decision Trees and Time Series based models to predict Conflict. Link
+    - Built a reporting Dashboard that can be used by policymakers to take effective decisions to avoid natural resources shortages and conflicts.
+
+
+- layout: top-middle
+  name: How America Flies
+  github: ameyakarnad/howamericaflies
+  quote: >
+    Creating Insightful Visualizations on Airline Performance Data
+  description: | # this will include new lines to allow paragraphs
+    - Performed Exploratory data analysis (EDA) and answered questions of interest on Airline On-Time Performance data for US
+    - Conducted the EDA using R’s tidyverse packages.
+    - Designed a Visualization tool in JavaScript and D3 to find flight delays between top airports.
+    - [Tool Link](https://s3.us-east-2.amazonaws.com/howamericaflies/lookbeforeyoubook.html)
+    
+- layout: top-middle
+  name: Beer Recommendation System
+  github: ameyakarnad/BeerPersonalization
+  quote: >
+    A Recommendation system for recommendation of Beer
+  description: | # this will include new lines to allow paragraphs
+    - Built neighborhood based and model based collaborative filtering algorithms for beer recommendation
+    - Developed a Content based recommendation system using NLP on beer review-text
+    - Tackled recommendation concerns such as cold- start, variety, serendipity and accuracy
+    - Developed the project in python using surprise, NL toolkit and scikit-learn packages
+    
+- layout: top-middle
+  name: Projects in Data Science and Public Policy
+  quote: >
+    Mini Data Science Projects in Public Policy Context
+  description: |
+    - Russian Twitter trolls and 2016 U. S. Election – Analyzing FiveThirtyEight’s 3 million tweets dataset [Link](https://github.com/ameyakarnad/RussiaTwitterTroll)
+    - Evaluating Northpointe Inc's Compass system recidivism predictor [Link](https://github.com/ameyakarnad/RecidivisimCompass)
+    - Predicting Economic factors related to Poverty using Night Lights dataset [Link](https://github.com/ameyakarnad/PovertyNightLights)
+
+- layout: top-middle
+  name: Research Project in Educational Analytics
+  quote: >
+    Evaluation and Validation of Problem Solving and Thinking Skills based on Student Academic Performance
+  description: |
+    - Implemented a modified K-means clustering algorithm on a Weighted Skill Score (WSS) to evaluate Problem solving and thinking skills of a student based on academic performance
+    - Analysis was done using R Programing
+    - Presented and published at IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT) 2017, [Link](https://ieeexplore.ieee.org/document/8256676)

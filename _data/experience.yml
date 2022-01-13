@@ -1,0 +1,61 @@
+- layout: left
+  company: Oracle
+  link: https://www.oracle.com/index.html
+  jobs:
+    - title: Senior Software Engineer
+      dates: March 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Working on the Oracle Transporatation Management (OTM) Software. 
+    - Building Machine learning, and Operational Research Algorithms and designing Dashboard for the Product.
+- layout: left
+  company: Columbia University
+  link: https://www.columbia.edu/
+  jobs:
+    - title: Adjunct Associate Faculty
+      dates: May 2020 - Jan 2021
+  description: | # this will include new lines to allow paragraphs
+    - Hired for the Course "Data Science Consulting" for two semesters. 
+    - Directed and helped Students develop Data Science capstone Projects in a Consulting-based enviroment. 
+- layout: left
+  company: Edlab, Teachers College, Columbia University
+  link: https://edlab.tc.columbia.edu/
+  jobs:
+    - title: Data Science Researcher
+      dates: June 2019 - Dec 2019
+  description: | # this will include new lines to allow paragraphs
+    - Worked on a Multi-platform recommendation system for various Teacher’s college library resources for enhancing Self Directed Learning (SDL)
+    - Own entire data pipeline and perform end to end data engineering
+    - Involves Development and research on Search and Recommendation systems, Social network analysis and Topic modelling
+    - Also worked on auto-tagging of documents and designed a python package for research metadata retrieval
+    - Technologies: Apache PredictionIO, MongoDB, EZProxy, Docker, Python, SQL
+- layout: left
+  company: Columbia University
+  link: https://datascience.columbia.edu/students-recognized-excellence-during-reception-dsi-graduates
+  jobs:
+    - title: Graduate Teaching Assistant
+      dates: Jan 2019 - May 2019
+  description: | # this will include new lines to allow paragraphs
+    - Recieved Award for Excellence in Course Assistantship
+    - Teaching Assistant for the course "Applied Data Science"
+    - Course focuses on the practice of Data Science in the field of Educational Assessment, Health Care, Marketing, Advertising and Social Media
+    - Course deals with skills like Data analysis, Machine learning, Featuring Engineering and Interpreting & Communicating results.
+    - Responsibilities include evaluating assignments & projects and providing guidance to graduate students.
+- layout: left
+  company: Micro Focus
+  link: https://www.microfocus.com
+  jobs:
+    - title: Software Engineer
+      dates: Sept 2017 - June 2018
+  description: | # this will include new lines to allow paragraphs
+    - Designed, tested and automated APIs for providing data analytics insights into software security compliance and risk data for a datacenter automation Software
+    - Implemented the software using python programing on kubernetes technology
+    - Won 2nd place in a site wide hackathon conducted by Hewlett Packard Enterprise by designing a ‘Docker and Kubernetes log monitoring Solution’
+    - Technologies: Kubernetes, Docker, Python
+- layout: left
+  company: Hewlett Packard Enterprise
+  link: https://www.hpe.com
+  jobs:
+    - title: Software Engineer
+      dates: Sept 2016 - Sept 2017
+  description: | # this will include new lines to allow paragraphs
+    - Spin merged into Micro Focus in September 2017
