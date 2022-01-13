@@ -1,61 +1,54 @@
 - layout: left
-  company: Oracle
-  link: https://www.oracle.com/index.html
+  company: Robert Bosch GmbH
   jobs:
-    - title: Senior Software Engineer
-      dates: March 2020 - Present
+    - title: Data Science Intern
+      dates: Jan 2022 - Present
   description: | # this will include new lines to allow paragraphs
-    - Working on the Oracle Transporatation Management (OTM) Software. 
-    - Building Machine learning, and Operational Research Algorithms and designing Dashboard for the Product.
+    - Applied machine learning models to predict top10 reasons for scrap generation.
+    - Created visualisation graphics, translating complex data sets into comprehensive visual representations for audiences in non-tech domain.
+    - Establishing ML framework for pushing data pipelines into production with AWS/Azure, MLFlow, Docker, and PySpark.
+  jobs:
+    - title: Master Thesis (Data Science)
+      dates: Jun 2021 - Dec 2021
+  description: | # this will include new lines to allow paragraphs
+    - Researched one of Bosch's grinding machine usecases to deduce root causes for failure occurring in finished parts and machine tools using Causal Inference.
+    - Derived causality graph structure using Discrete Bayesian Networks (DBN) & Temporal Convocational Networks (TCN) and evaluate with human-level performance.
+    - Discovered the main reason behind ~67% of scraps being generated.
+    - Developed statistical ML models with an F1-score of 94%.
+    - Technologies: Python, MongoDB, Docker, MLFlow, SQL, AWS, ML Libraries
+
 - layout: left
-  company: Columbia University
-  link: https://www.columbia.edu/
+  company: Fraunhofer IEM
   jobs:
-    - title: Adjunct Associate Faculty
-      dates: May 2020 - Jan 2021
+    - title: Machine Learning Intern
+      dates: Feb 2020 - May 2021
   description: | # this will include new lines to allow paragraphs
-    - Hired for the Course "Data Science Consulting" for two semesters. 
-    - Directed and helped Students develop Data Science capstone Projects in a Consulting-based enviroment. 
+    - Created deep learning model for classifying anomalies from thermographic images of manufactured parts with accuracy of over 90%.
+    - Implemented computer vision techniques like edge detection, contour identification, image segmentation using OpenCV & Scikit-learn libraries.
+    - Identified new problem areas and researched technical details to build innovative products and solutions as Industry4.0 in OWL region.
+    - Introduced CI/CD pipeline using Docker & Kubernetes for deployment at the production site.
+    - Technologies: Python, InfluxDB, Docker, Kubernetes, SQL, Spark, ML Libraries, MS Office
+
 - layout: left
-  company: Edlab, Teachers College, Columbia University
-  link: https://edlab.tc.columbia.edu/
+  company: HP Inc
   jobs:
-    - title: Data Science Researcher
-      dates: June 2019 - Dec 2019
+    - title: Research & Development Engineer
+      dates: Sep 2018 - Mar 2019
   description: | # this will include new lines to allow paragraphs
-    - Worked on a Multi-platform recommendation system for various Teacher’s college library resources for enhancing Self Directed Learning (SDL)
-    - Own entire data pipeline and perform end to end data engineering
-    - Involves Development and research on Search and Recommendation systems, Social network analysis and Topic modelling
-    - Also worked on auto-tagging of documents and designed a python package for research metadata retrieval
-    - Technologies: Apache PredictionIO, MongoDB, EZProxy, Docker, Python, SQL
+    - Developed several software & firmware features in C++ & Qt for large-format printers.
+    - Led release management processes like validating, maintaining stability, and ensuring backward-compatibility.
+    - Acted as Point-of-contact between dev teams internationally and Served as Scrum Master for internal team.
+    - Technologies: C++, Embedded Programming, Linux Shell Scripting, Microsoft Office, SVN, Jenkins
 - layout: left
-  company: Columbia University
-  link: https://datascience.columbia.edu/students-recognized-excellence-during-reception-dsi-graduates
+
+  company: Tally Solutions Pvt Ltd
   jobs:
-    - title: Graduate Teaching Assistant
-      dates: Jan 2019 - May 2019
+    - title: Research & Development Engineer
+      dates: Aug 2016 - July 2018
   description: | # this will include new lines to allow paragraphs
-    - Recieved Award for Excellence in Course Assistantship
-    - Teaching Assistant for the course "Applied Data Science"
-    - Course focuses on the practice of Data Science in the field of Educational Assessment, Health Care, Marketing, Advertising and Social Media
-    - Course deals with skills like Data analysis, Machine learning, Featuring Engineering and Interpreting & Communicating results.
-    - Responsibilities include evaluating assignments & projects and providing guidance to graduate students.
-- layout: left
-  company: Micro Focus
-  link: https://www.microfocus.com
-  jobs:
-    - title: Software Engineer
-      dates: Sept 2017 - June 2018
-  description: | # this will include new lines to allow paragraphs
-    - Designed, tested and automated APIs for providing data analytics insights into software security compliance and risk data for a datacenter automation Software
-    - Implemented the software using python programing on kubernetes technology
-    - Won 2nd place in a site wide hackathon conducted by Hewlett Packard Enterprise by designing a ‘Docker and Kubernetes log monitoring Solution’
-    - Technologies: Kubernetes, Docker, Python
-- layout: left
-  company: Hewlett Packard Enterprise
-  link: https://www.hpe.com
-  jobs:
-    - title: Software Engineer
-      dates: Sept 2016 - Sept 2017
-  description: | # this will include new lines to allow paragraphs
-    - Spin merged into Micro Focus in September 2017
+    - Developed a gateway server in C++ & Python for a ERP Software used by 7 million customers worldwide.
+    - Built robust backend server that handles ~1000 RPS involving multi-threading, asynchronous, and REST-APIs.
+    - Integrated software application with external bank provider.
+    - Mentored several junior developers and won awards for helping and building strong dev-team.
+    - Technologies: C++, Python, Jenkins, Jira, MS Office, Nagios, Shell Scripting, GitLab
+
