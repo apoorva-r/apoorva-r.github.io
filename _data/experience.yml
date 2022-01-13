@@ -1,0 +1,54 @@
+- layout: left
+  company: Robert Bosch GmbH
+  jobs:
+    - title: Data Science Intern
+      dates: Jan 2022 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Applied machine learning models to predict top10 reasons for scrap generation. 
+    - Created visualisation graphics, translating complex data sets into comprehensive visual representations for audiences in non-tech domain.
+    - Establishing ML framework for pushing data pipelines into production with AWS/Azure, MLFlow, Docker, and PySpark.
+  jobs:
+    - title: Master Thesis (Data Science)
+      dates: Jun 2021 - Dec 2021
+  description: | # this will include new lines to allow paragraphs
+    - Researched one of Bosch's grinding machine usecases to deduce root causes for failure occurring in finished parts and machine tools using Causal Inference.
+    - Derived causality graph structure using Discrete Bayesian Networks (DBN) & Temporal Convocational Networks (TCN) and evaluate with human-level performance.
+    - Discovered the main reason behind ~67% of scraps being generated.
+    - Developed statistical ML models with an F1-score of 94%.
+    - Technologies: Python, MongoDB, Docker, MLFlow, SQL, AWS, ML Libraries
+
+- layout: left
+  company: Fraunhofer IEM
+  jobs:
+    - title: Machine Learning Intern
+      dates: Feb 2020 - May 2021
+  description: | # this will include new lines to allow paragraphs
+    - Created deep learning model for classifying anomalies from thermographic images of manufactured parts with accuracy of over 90%.
+    - Implemented computer vision techniques like edge detection, contour identification, image segmentation using OpenCV & Scikit-learn libraries.
+    - Identified new problem areas and researched technical details to build innovative products and solutions as Industry4.0 in OWL region.
+    - Introduced CI/CD pipeline using Docker & Kubernetes for deployment at the production site.
+    - Technologies: Python, InfluxDB, Docker, Kubernetes, SQL, Spark, ML Libraries, MS Office
+
+- layout: left
+  company: HP Inc
+  jobs:
+    - title: Research & Development Engineer
+      dates: Sep 2018 - Mar 2019
+  description: | # this will include new lines to allow paragraphs
+    - Developed several software & firmware features in C++ & Qt for large-format printers.
+    - Led release management processes like validating, maintaining stability, and ensuring backward-compatibility.
+    - Acted as Point-of-contact between dev teams internationally and Served as Scrum Master for internal team.
+    - Technologies: C++, Embedded Programming, Linux Shell Scripting, Microsoft Office, SVN, Jenkins
+- layout: left
+
+  company: Tally Solutions Pvt Ltd
+  jobs:
+    - title: Research & Development Engineer
+      dates: Aug 2016 - July 2018
+  description: | # this will include new lines to allow paragraphs
+    - Developed a gateway server in C++ & Python for a ERP Software used by 7 million customers worldwide.
+    - Built robust backend server that handles ~1000 RPS involving multi-threading, asynchronous, and REST-APIs.
+    - Integrated software application with external bank provider.
+    - Mentored several junior developers and won awards for helping and building strong dev-team.
+    - Technologies: C++, Python, Jenkins, Jira, MS Office, Nagios, Shell Scripting, GitLab
+
