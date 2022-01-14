@@ -4,24 +4,24 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Apoorva Ravishankar
+title: Data Scientist
 email: apoorva.ravishankar@gmail.com
 phone: +49(176)59545262
 website: http://apoorva-r.github.io
 
 
 # Social links
-#twitter_username: AmeyaKarnad
+
 github_username:  apoorva-r
 linkedin_username: apoorvaravishankar
-#youtube_username: channel\/UCL3yG9_j44it7tdOvRueeUg\/playlists
-#download_resume: columbia.jpg
+
 
 about_title: About Me
 about_profile_image: images/ApoorvaR.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Apoorva. I am a meticulous Data Scientist accomplished in compiling, transforming and analyzing complex information through data-driven development.
+  Hi, I am Apoorva, a Computer Science post-graduate living in Stuttgart, Germany. I am a meticulous Data Scientist accomplished in compiling, transforming and analyzing complex information through data-driven development.
   
-  Experienced in building machine learning models and handling large datasets. Demonstrated success in identifying relationships and building solutions to business problems.
+  I am experienced in building machine learning models and handling large datasets. I have demonstrated success in identifying relationships and building solutions to several business problems.
   
 experience_title: Experience #(Use this to override about experience section title)
 education_title: Education #(Use this to override about education section title)
