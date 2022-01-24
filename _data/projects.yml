@@ -23,8 +23,6 @@
     
 - layout: top-middle
   name: Beer Recommendation System
-  quote: >
-    A Recommendation system for recommendation of Beer
   description: | # this will include new lines to allow paragraphs
     - Built neighborhood based and model based collaborative filtering algorithms for beer recommendation
     - Developed a Content based recommendation system using NLP on beer review-text
